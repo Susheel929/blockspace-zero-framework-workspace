@@ -59,7 +59,7 @@ No installation or setup is required.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/blockspace.git
+git clone https://github.com/Susheel929/blockspace-zero-framework-workspace
 ```
 
 ### 2. Open the project
