@@ -83,6 +83,8 @@ Blockspace/
 ├── index.html
 ├── styles.css
 ├── app.js
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
